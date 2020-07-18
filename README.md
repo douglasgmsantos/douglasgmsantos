@@ -1,8 +1,8 @@
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 # Douglas Santos :zap:
-Olá, sou Douglas ... Desenvolvedor web na Valemobi trabalhando com soluções voltadas ao mercado financeiro.
-Sou um gosto muito de assistir filmes/séries e jogar vídeo game no meu tempo livre.
+Olá, sou Douglas ... Desenvolvedor web na Valemobi trabalhando com soluções voltadas ao mercado financeiro.<br>
+Gosto muito de assistir filmes/séries e jogar vídeo game no meu tempo livre.
 
 ## Minhas Habilidades:
 :white_check_mark: React <br>
