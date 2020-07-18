@@ -1,7 +1,7 @@
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
 # Douglas Santos :zap:
-Olá, sou Douglas ... Desenvolvedor web na Valemobi trabalhando com soluções voltadas ao mercado financeiro.<br>
+Olá, sou Douglas formado em Sistemas de Informação no Centro Universitário SENAC... Desenvolvedor web na Valemobi trabalhando com soluções voltadas ao mercado financeiro.<br>
 Gosto muito de assistir filmes/séries e jogar vídeo game no meu tempo livre.
 
 ## Minhas Habilidades:
