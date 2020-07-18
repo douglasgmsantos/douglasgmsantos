@@ -16,7 +16,7 @@ Sou um gosto muito de assistir filmes/séries e jogar vídeo game no meu tempo l
 :white_check_mark: SQL 
 
 ## Contatos:
- :email: E-mail : douglas_motasts@outlook.com
- :iphone: Celular: 11 96184-5895
+ :email: E-mail : douglas_motasts@outlook.com<br>
+ :iphone: Celular: 11 96184-5895<br>
 
 https://www.linkedin.com/in/douglas-santos-72043436/
