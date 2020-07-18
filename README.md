@@ -5,15 +5,15 @@ Olá, sou Douglas ... Desenvolvedor web na Valemobi trabalhando com soluções v
 Gosto muito de assistir filmes/séries e jogar vídeo game no meu tempo livre.
 
 ## Minhas Habilidades:
-:white_check_mark: React <br>
-:white_check_mark: React Native <br>
-:white_check_mark: NodeJs <br>
-:white_check_mark: Angular JS / Angular+ <br>
-:white_check_mark: HTML/CSS/Javascript <br>
-:white_check_mark: Typescript <br>
-:white_check_mark: JQuery <br>
-:white_check_mark: Sass/ Bootstrap <br>
-:white_check_mark: SQL 
+- React <br>
+- React Native <br>
+- NodeJs <br>
+- Angular JS / Angular+ <br>
+- HTML/CSS/Javascript <br>
+- Typescript <br>
+- JQuery <br>
+- Sass/ Bootstrap <br>
+- SQL 
 
 ## Contatos:
  :email:   E-mail : douglas_motasts@outlook.com<br>
