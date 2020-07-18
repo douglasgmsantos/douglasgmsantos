@@ -1,16 +1,22 @@
-### Hi there 👋
+![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
-<!--
-**douglasgmsantos/douglasgmsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Douglas Santos
+Olá, sou Douglas - desenvolvedor web da Valemobi trabalhando com desenvolvimento de ferramentos para o mercado financeiro.
+Sou um gosto muito de assistir filmes/séries e jogar vídeo game no meu tempo livre.
 
-Here are some ideas to get you started:
+## Minhas Habilidades:
+- React <br>
+- React Native <br>
+- NodeJs <br>
+- Angular JS / Angular+ <br>
+- HTML/CSS/Javascript <br>
+- Typescript <br>
+- JQuery <br>
+- Sass/ Bootstrap <br>
+- SQL 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contatos:
+ - E-mail : douglas_motasts@outlook.com
+ - Celular: 11 96184-5895
+
+https://www.linkedin.com/in/douglas-santos-72043436/
