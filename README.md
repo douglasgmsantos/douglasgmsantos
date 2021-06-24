@@ -1,10 +1,10 @@
 ![image](https://github.com/saadeghi/saadeghi/blob/master/dino.gif)
 
-# Douglas Santos :zap:
+## Douglas Santos :zap:
 Olá, sou Douglas formado em Sistemas de Informação no Centro Universitário SENAC... Desenvolvedor Web na Valemobi trabalhando com soluções voltadas ao mercado financeiro.<br>
-Gosto muito de assistir filmes/séries e jogar vídeo game no meu tempo livre.
+Gosto muito de assistir filmes/séries e jogar no meu tempo livre.
 
-## Minhas Habilidades:
+### Minhas Habilidades:
 <p>
 <img src="https://appmasters.io/static/react-47ce6e77f039020ee2e76a10c1e988e9.png" height="35px"/> 
 &nbsp;
@@ -28,8 +28,7 @@ Gosto muito de assistir filmes/séries e jogar vídeo game no meu tempo livre.
 &nbsp;
 </p>
 
-
-## Contatos:
+### Contatos:
  :email:   E-mail : douglas_motasts@outlook.com<br>
  :iphone:  Celular: 11 96184-5895<br>
 
